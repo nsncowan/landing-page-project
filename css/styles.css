@@ -1,5 +1,18 @@
+body {
+  background-color: #FAFDD6;
+}
+
 .header {
   display: block;
   text-align: center;
-  
+}
+
+.jumbotron {
+  background-color: #E4E9BE;
+  border: 5px solid #A2B38B;
+}
+
+#myPhoto {
+  height: 300px;
+  float: none;
 }
