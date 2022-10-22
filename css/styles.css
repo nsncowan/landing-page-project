@@ -1,5 +1,6 @@
 body {
-  background-color: #FAFDD6;
+  background-color: #caf0f8;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .header {
@@ -8,11 +9,22 @@ body {
 }
 
 .jumbotron {
-  background-color: #E4E9BE;
-  border: 5px solid #A2B38B;
+  background-color: #48cae4;
+  border: 5px solid #0077b6;
+}
+
+#familyPhoto {
+  height: 300px;
+  float: right;
+  border: 5px solid #0077b6;
+  padding: 10px;
+  margin: 10px;
 }
 
 #myPhoto {
   height: 300px;
   float: none;
+  border: 5px solid #0077b6;
+  padding: 10px;
+  margin: 10px;
 }
