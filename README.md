@@ -1,4 +1,4 @@
-# Noah Cowan Portfolio Landing Page
+# Noah Cowan Landing Page Project
 
 #### By _**Noah Cowan**_
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-_This is a portfolio landing page created in order to demonstrate my understanding of html and css. This is the first independant coding project I created for Epiodus. _
+_This is a portfolio landing page created in order to demonstrate my understanding of html and css. _
 
 ## Setup/Installation Requirements
 
@@ -22,7 +22,7 @@ _This is a portfolio landing page created in order to demonstrate my understandi
 
 ## GitHub Pages
 
-* [Portfolio Landing Page](https://nsncowan.github.io/portfolio-landing-page/)
+* [Landing Page Project](https://nsncowan.github.io/landing-page-project/)
 
 ## Known Bugs
 
